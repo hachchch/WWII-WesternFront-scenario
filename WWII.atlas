@@ -3,7 +3,7 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-NationIcons/Luxsembourg
+NationIcons/Luxembourg
   rotate: false
   xy: 0, 0
   size: 200, 200
