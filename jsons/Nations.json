@@ -5,8 +5,7 @@
                 "style": "Allies",
                 "preferredVictoryType": "Neutral",
                 "uniqueName": "Plan De Man",
-                "uniques": ["[Gold] cost of purchasing items in cities [-10]%","Provides [10] [Oil] <hidden from users>","Starts with [Replaceable Parts] adopted",
-		""],
+                "uniques": ["[Gold] cost of purchasing items in cities [-10]%","Provides [10] [Oil] <hidden from users>","Starts with [Replaceable Parts]"],
                 "outerColor": [253, 219, 32],
 			"innerColor": [0, 0, 0],
                 "cities": ["Brussel"]
@@ -17,7 +16,7 @@
                 "style": "Allies",
                 "preferredVictoryType": "Neutral",
                 "uniqueName": "Schuster Line",
-                "uniques": ["[+15]% Strength <when defending> <for [Land] units>","Provides [1] [Oil] <hidden from users>","Starts with [Replaceable Parts] adopted"],
+                "uniques": ["[+15]% Strength <when defending> <for [Land] units>","Provides [1] [Oil] <hidden from users>","Starts with [Replaceable Parts]"],
                 "outerColor": [0, 161, 222],
 			"innerColor": [237, 41, 57],
                 "cities": ["Luxembourg"]
@@ -30,7 +29,7 @@
                 "preferredVictoryType": "Scientific",
                 "uniqueName": "British Colonies",
                 "uniques": ["[2] free [Great War Infantry] units appear <upon entering a Golden Age> <when at war>","Provides [25] [Oil]",
-		"Starts with [Combined Arms]","Starts with [Radar]","Starts with [Freedom] adopted","Starts with [Combustion]","Starts with [Universal Suffrage] adopted","Starts with [Radar]","Starts with [Replaceable Parts] adopted","Starts with [Ballistics] adopted","Starts with [Electronics] adopted"],
+		"Starts with [Combined Arms]","Starts with [Radar]","Starts with [Freedom] adopted","Starts with [Combustion]","Starts with [Universal Suffrage] adopted","Starts with [Radar]","Starts with [Replaceable Parts]","Starts with [Ballistics]","Starts with [Electronics]"],
                 "outerColor": [109, 2, 0],
 			"innerColor": [255, 255, 255],
                 "cities": ["London","Bournemouth","Colchester"]
@@ -42,7 +41,7 @@
                 "preferredVictoryType": "Cultural",
                 "uniqueName": "Defeatism",
                 "uniques": ["[-50]% Strength for cities <vs [Germany] units>","Provides [10] [Oil] <hidden from users>",
-		"Starts with [Combined Arms]","Starts with [Radar]","Starts with [Freedom] adopted","Starts with [Combined Arms]","Starts with [Replaceable Parts] adopted"],// Because it has many cities and is allied with England.
+		"Starts with [Combined Arms]","Starts with [Radar]","Starts with [Freedom] adopted","Starts with [Combined Arms]","Starts with [Replaceable Parts]"],// Because it has many cities and is allied with England.
                 "outerColor": [38, 98, 255],
 			"innerColor": [239,236,148],
                 "cities": ["Paris","Alsace","Dunkirk","Amiens","Reims","Orleans","Lyon","Nantes","Rennes"]
@@ -53,7 +52,7 @@
                 "style": "Allies",
                 "preferredVictoryType": "Neutral",
                 "uniqueName": "General Strike",
-                "uniques": ["Gain a free [General Strike] [in capital]","Starts with [Tradition] adopted","Starts with [Replaceable Parts] adopted"],
+                "uniques": ["Gain a free [General Strike] [in capital]","Starts with [Tradition] adopted","Starts with [Replaceable Parts]"],
                 "outerColor": [216, 120, 0],
 		"innerColor": [255, 255, 255],
                 "cities": ["Amsterdam"]
@@ -66,7 +65,7 @@
                 "uniqueName": "Manstein Plan",
                 "uniques": ["[+1] Movement <for [Armored] units> <when adjacent to a [Armored] unit>","Provides [20] [Oil] <hidden from users>",
 		"Starts with [Combined Arms]","Starts with [Radar]",
-		"Starts with [Autocracy] adopted","Starts with [Populism] adopted","Starts with [Militarism] adopted","Starts with [Fascism] adopted","Starts with [Police State] adopted","Starts with [Total War] adopted","Starts with [Replaceable Parts] adopted","Starts with [Refrigeration] adopted"],
+		"Starts with [Autocracy] adopted","Starts with [Populism] adopted","Starts with [Militarism] adopted","Starts with [Fascism] adopted","Starts with [Police State] adopted","Starts with [Total War] adopted","Starts with [Replaceable Parts]","Starts with [Refrigeration]"],
                 "outerColor": [179, 178, 184],
 			"innerColor": [37, 43, 33],
                 "cities": ["London","Bournemouth","Colchester"]
