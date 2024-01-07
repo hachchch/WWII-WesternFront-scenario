@@ -17,8 +17,8 @@
                 "preferredVictoryType": "Neutral",
                 "uniqueName": "Schuster Line",
                 "uniques": ["[+15]% Strength <when defending> <for [Land] units>","Provides [1] [Oil] <hidden from users>"],
-                "outerColor": [253, 219, 32],
-			"innerColor": [0, 0, 0],
+                "outerColor": [0, 161, 222],
+			"innerColor": [237, 41, 57],
                 "cities": ["Luxembourg"]
         },
         // Vanila
