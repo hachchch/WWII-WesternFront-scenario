@@ -1,6 +1,8 @@
 [
         {
                 "name": "General Strike",
+                "cost": 1,
+                "uniqueTo": "The Netherlands",
                 "uniques": ["Unsellable","Rebel units may spawn <for [Germany]>"]
         }
 ]
