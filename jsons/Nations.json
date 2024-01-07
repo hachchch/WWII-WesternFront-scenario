@@ -1,0 +1,69 @@
+[
+        {
+                "name": "Belgium",
+                "leaderName": "Leopold III",
+                "style": "Allies",
+                "preferredVictoryType": "Neutral",
+                "uniqueName": "Plan De Man",
+                "uniques": ["[Gold] cost of purchasing items in cities [-10]%","Provides [10] [Oil] <hidden from users>"],
+                "outerColor": [253, 219, 32],
+			"innerColor": [0, 0, 0],
+                "cities": ["Brussel"]
+        },
+        {
+                "name": "Luxembourg",
+                "leaderName": "Charlotte",
+                "style": "Allies",
+                "preferredVictoryType": "Neutral",
+                "uniqueName": "Schuster Line",
+                "uniques": ["[+15]% Strength <when defending> <for [Land] units>","Provides [1] [Oil] <hidden from users>"],
+                "outerColor": [253, 219, 32],
+			"innerColor": [0, 0, 0],
+                "cities": ["Luxembourg"]
+        },
+        // Vanila
+        {
+                "name": "Blitain",
+                "leaderName": "Churchill",
+                "style": "Allies",
+                "preferredVictoryType": "Scientific",
+                "uniqueName": "British Colonies",
+                "uniques": ["[2] free [Great War Infantry] units appear <upon entering a Golden Age> <when at war>","Provides [25] [Oil]"],
+                "outerColor": [109, 2, 0],
+			"innerColor": [255, 255, 255],
+                "cities": ["London","Bournemouth","Colchester"]
+        },
+        {
+                "name": "France",
+                "leaderName": "Lebrun",
+                "style": "Allies",
+                "preferredVictoryType": "Cultural",
+                "uniqueName": "Defeatism",
+                "uniques": ["[-50]% Strength for cities <vs [Germany] units>","Provides [10] [Oil] <hidden from users>"],// Because it has many cities and is allied with England.
+                "outerColor": [38, 98, 255],
+			"innerColor": [239,236,148],
+                "cities": ["Paris","Alsace","Dunkirk","Amiens","Reims","Orleans","Lyon","Nantes","Rennes"]
+        },
+        {
+                "name": "The Netherlands",
+                "leaderName": "Hendrikus Colijn",
+                "style": "Allies",
+                "preferredVictoryType": "Neutral",
+                "uniqueName": "General Strike",
+                "uniques": ["Gain a free [General Strike] [in capital]"],
+                "outerColor": [216, 120, 0],
+		"innerColor": [255, 255, 255],
+                "cities": ["Amsterdam"]
+        },
+        {
+                "name": "Germany",
+                "leaderName": "Hitler",
+                "style": "Axis",
+                "preferredVictoryType": "Domination",
+                "uniqueName": "Manstein Plan",
+                "uniques": ["[+1] Movement <for [Armored] units> <when adjacent to a [Armored] unit>","Provides [20] [Oil] <hidden from users>"],
+                "outerColor": [179, 178, 184],
+			"innerColor": [37, 43, 33],
+                "cities": ["London","Bournemouth","Colchester"]
+        }
+]
