@@ -37,7 +37,7 @@
         {
                 "name": "France",
                 "leaderName": "Lebrun",
-                "style": "Allies",
+                "style": "Allies-F",
                 "preferredVictoryType": "Cultural",
                 "uniqueName": "Defeatism",
                 "uniques": ["[-50]% Strength for cities <vs [Germany] units>","Provides [10] [Oil] <hidden from users>",
